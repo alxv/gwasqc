@@ -25,15 +25,25 @@ GWAS-QC stands for **Genome-Wide Association Studies - Quality Control**. It str
 The software performs a wide range of essential QC checks:
 
 **Gender Check:** Verifies the reported gender of each individual against their genetic data.
+
 **Sample Call Rate:** Calculates the proportion of successfully genotyped variants per individual.
+
 **Heterozygosity:** Identifies individuals with unusually high or low heterozygosity rates.
+
 **Cryptic Relatedness:** Estimates the probability of genetic relatedness between pairs of individuals.
+
 **Ethnicity Inference:** Infers the genetic ancestry of each individual.
+
 **Sample Outlier Removal:** Removes samples that deviate from the rest of the dataset based on genetic characteristics.
+
 **SNP Missingness:** Calculates the proportion of individuals with missing genotype information for a given variant.
+
 **Minor Allele Frequency (MAF):** Calculates the frequency of the less common allele for each SNP.
+
 **Hardy-Weinberg Equilibrium (HWE):** Checks for deviation of observed allele and genotype frequencies from expected values.
+
 **Differential Missingness:** Checks for differences in missing genotype information between cases and controls.
+
 ## Installation
 **Compatibility:** Windows (PC/Laptop) or Mac (Virtual Machine).
 **Important:** Do **NOT** install on network drives.
@@ -53,7 +63,6 @@ The software performs a wide range of essential QC checks:
 1. Launch the application via the desktop icon.
 2. Navigate to the **Project setup** tab.
 3. Enter a project name.
-* 
 *Note:* Must be alphanumeric only (no special characters or whitespace) and preferably fewer than 5 characters.
 4. Click **"Assign name"** and proceed to the **"Analysis"** tab when prompted.
 
