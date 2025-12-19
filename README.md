@@ -116,4 +116,5 @@ Once Sample QC is complete, proceed to Variant QC checks:
 * **Alexandar Vincent-paulraj**
 * **J. Eunice Zhang**
 * **Prof. SIR Munir Pirmohamed**
-*University of Liverpool* 
+
+* **University of Liverpool**
