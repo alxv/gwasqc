@@ -4,6 +4,9 @@
 
 GWAS-QC is a powerful, GUI-based resource designed to aid researchers in performing quality control (QC) of genome-wide genotype data. It is specifically designed for researchers without formal bioinformatics training, providing a comprehensive set of features to effectively analyze vast amounts of genomic data without the need for command-line expertise.
 
+# Download-GWAS--QC_v1
+[![Download](https://img.shields.io/badge/Download-GWAS--QC_v1.0-blue?style=for-the-badge&logo=windows)](https://github.com/alxv/gwasqc/releases/tag/gwasqc)
+
 ## Table of Contents
 * [Overview](https://www.google.com/search?q=%23overview)
 * [Key Features](https://www.google.com/search?q=%23key-features)
