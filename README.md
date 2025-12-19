@@ -7,7 +7,7 @@ GWAS-QC is a powerful, GUI-based resource designed to aid researchers in perform
 # Download-GWAS--QC_v1
 [![Download](https://img.shields.io/badge/Download-GWAS--QC_v1.0-blue?style=for-the-badge&logo=windows)](https://github.com/alxv/gwasqc/releases/tag/gwasqc)
 
-To download the software, click the **Download Btton** and you would be able to locate the gwasqc.exe file under asset section.
+To download the software, click the **Download Button** and you would be able to locate the gwasqc.exe file under asset section.
 
 ## Table of Contents
 * [Overview](https://www.google.com/search?q=%23overview)
