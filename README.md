@@ -1,5 +1,5 @@
 # GWAS-QC
-
+![Features](GWAS FLYER 2 EZ.jpg)
 **A User-Friendly Quality Control Platform for Genome-Wide Association Studies**
 
 GWAS-QC is a powerful, GUI-based resource designed to aid researchers in performing quality control (QC) of genome-wide genotype data. It is specifically designed for researchers without formal bioinformatics training, providing a comprehensive set of features to effectively analyze vast amounts of genomic data without the need for command-line expertise.
