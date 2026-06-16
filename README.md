@@ -128,6 +128,10 @@ Once Sample QC is complete, proceed to Variant QC checks:
 
 4. Click **"Save ZIP Here"** to download the processed files to your specified folder.
 
+### MacOS
+The Mac users could follow the below tutorial to install GWAS-QC on MacOS
+[Watch the video here]([https://youtu.be)](https://youtu.be/z6LD3VrD2Sk)
+
 ## Authors
 * **Alexandar Vincent-paulraj**
 * **J. Eunice Zhang**
