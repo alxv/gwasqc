@@ -131,7 +131,7 @@ Once Sample QC is complete, proceed to Variant QC checks:
 ### MacOS
 The Mac users could follow the below tutorial to install GWAS-QC on MacOS.
 
-[Watch the video here](https://youtu.be)
+[Watch the video here](https://www.youtube.com/watch?v=z6LD3VrD2Sk)
 
 ## Authors
 * **Alexandar Vincent-paulraj**
